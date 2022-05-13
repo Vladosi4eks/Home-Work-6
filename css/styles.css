@@ -887,9 +887,6 @@ textarea::placeholder {
 
 .checkbox-input {
     position: absolute;
-    appearance: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
 }
 
 .sogl {
